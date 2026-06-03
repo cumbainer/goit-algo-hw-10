@@ -1,26 +1,49 @@
-from avl_tree import AVLNode, root
+from random import Random
+
+from scipy.integrate import quad
 
 
-def get_total_sum_iter(tree:AVLNode):
-    stack = [tree]
-    sum = tree.key
-    while stack:
-        node = stack.pop()
-        if node.left: stack.append(node.left)
-        if node.right: stack.append(node.right)
-        sum += node.key
-    return sum
-print(get_total_sum_iter(root))
-
-def get_total_sum_rec(tree:AVLNode, sum) -> int:
-    if not tree:
-        return sum
-    get_total_sum_rec(tree.right, sum=sum+tree.key)
-    get_total_sum_rec(tree.left, sum=sum+tree.key)
-    return sum
+def f(x: float) -> float:
+    return x ** 2
 
 
+def monte_carlo_integral(func, a: float, b: float, samples: int, seed: int = 42) -> float:
+    rng = Random(seed)
+    total = 0.0
 
-print(get_total_sum_rec(root, root.key))
+    for _ in range(samples):
+        x = rng.uniform(a, b)
+        total += func(x)
+
+    average_value = total / samples
+    return (b - a) * average_value
 
 
+def analytical_integral(a: float, b: float) -> float:
+    return (b ** 3 - a ** 3) / 3
+
+
+def main() -> None:
+    a = 0.0
+    b = 2.0
+    samples = 100_000
+
+    monte_carlo_result = monte_carlo_integral(f, a, b, samples)
+    quad_result, quad_error = quad(f, a, b)
+    analytical_result = analytical_integral(a, b)
+
+    print("Function: f(x) = x^2")
+    print(f"Interval: [{a}, {b}]")
+    print(f"Samples: {samples}")
+    print()
+    print(f"Monte Carlo result: {monte_carlo_result:.6f}")
+    print(f"SciPy quad result:  {quad_result:.6f}")
+    print(f"Analytical result:  {analytical_result:.6f}")
+    print(f"quad error:         {quad_error:.12f}")
+    print()
+    print(f"Monte Carlo absolute error vs quad: {abs(monte_carlo_result - quad_result):.6f}")
+    print(f"Monte Carlo absolute error vs analytical: {abs(monte_carlo_result - analytical_result):.6f}")
+
+
+if __name__ == "__main__":
+    main()
