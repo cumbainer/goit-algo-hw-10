@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="24" y="36" font-family="Arial" font-size="22" fill="#0f172a">Pythagoras tree, recursion level 5</text>
+<line x1="450.00" y1="840.00" x2="450.00" y2="580.00" stroke="#228c4e" stroke-width="7.00" stroke-linecap="round"/>
+<line x1="450.00" y1="580.00" x2="320.00" y2="450.00" stroke="#22804e" stroke-width="5.60" stroke-linecap="round"/>
+<line x1="320.00" y1="450.00" x2="190.00" y2="450.00" stroke="#22744e" stroke-width="4.20" stroke-linecap="round"/>
+<line x1="190.00" y1="450.00" x2="125.00" y2="515.00" stroke="#22684e" stroke-width="2.80" stroke-linecap="round"/>
+<line x1="125.00" y1="515.00" x2="125.00" y2="580.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="125.00" y1="515.00" x2="60.00" y2="515.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="190.00" y1="450.00" x2="125.00" y2="385.00" stroke="#22684e" stroke-width="2.80" stroke-linecap="round"/>
+<line x1="125.00" y1="385.00" x2="60.00" y2="385.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="125.00" y1="385.00" x2="125.00" y2="320.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="320.00" y1="450.00" x2="320.00" y2="320.00" stroke="#22744e" stroke-width="4.20" stroke-linecap="round"/>
+<line x1="320.00" y1="320.00" x2="255.00" y2="255.00" stroke="#22684e" stroke-width="2.80" stroke-linecap="round"/>
+<line x1="255.00" y1="255.00" x2="190.00" y2="255.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="255.00" y1="255.00" x2="255.00" y2="190.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="320.00" y1="320.00" x2="385.00" y2="255.00" stroke="#22684e" stroke-width="2.80" stroke-linecap="round"/>
+<line x1="385.00" y1="255.00" x2="385.00" y2="190.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="385.00" y1="255.00" x2="450.00" y2="255.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="450.00" y1="580.00" x2="580.00" y2="450.00" stroke="#22804e" stroke-width="5.60" stroke-linecap="round"/>
+<line x1="580.00" y1="450.00" x2="580.00" y2="320.00" stroke="#22744e" stroke-width="4.20" stroke-linecap="round"/>
+<line x1="580.00" y1="320.00" x2="515.00" y2="255.00" stroke="#22684e" stroke-width="2.80" stroke-linecap="round"/>
+<line x1="515.00" y1="255.00" x2="450.00" y2="255.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="515.00" y1="255.00" x2="515.00" y2="190.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="580.00" y1="320.00" x2="645.00" y2="255.00" stroke="#22684e" stroke-width="2.80" stroke-linecap="round"/>
+<line x1="645.00" y1="255.00" x2="645.00" y2="190.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="645.00" y1="255.00" x2="710.00" y2="255.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="580.00" y1="450.00" x2="710.00" y2="450.00" stroke="#22744e" stroke-width="4.20" stroke-linecap="round"/>
+<line x1="710.00" y1="450.00" x2="775.00" y2="385.00" stroke="#22684e" stroke-width="2.80" stroke-linecap="round"/>
+<line x1="775.00" y1="385.00" x2="775.00" y2="320.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="775.00" y1="385.00" x2="840.00" y2="385.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="710.00" y1="450.00" x2="775.00" y2="515.00" stroke="#22684e" stroke-width="2.80" stroke-linecap="round"/>
+<line x1="775.00" y1="515.00" x2="840.00" y2="515.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+<line x1="775.00" y1="515.00" x2="775.00" y2="580.00" stroke="#225c4e" stroke-width="1.40" stroke-linecap="round"/>
+</svg>

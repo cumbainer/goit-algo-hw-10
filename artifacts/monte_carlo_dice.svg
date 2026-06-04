@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="24" y="36" font-family="Arial" font-size="22" fill="#0f172a">Probabilities of sums for two dice</text>
+<line x1="70" y1="540" x2="960" y2="540" stroke="#334155" stroke-width="2"/>
+<line x1="70" y1="70" x2="70" y2="540" stroke="#334155" stroke-width="2"/>
+<line x1="70" y1="540.00" x2="960" y2="540.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="58" y="544.00" text-anchor="end" font-family="Arial" font-size="12" fill="#475569">0%</text>
+<line x1="70" y1="461.67" x2="960" y2="461.67" stroke="#cbd5e1" stroke-width="1"/>
+<text x="58" y="465.67" text-anchor="end" font-family="Arial" font-size="12" fill="#475569">3%</text>
+<line x1="70" y1="383.33" x2="960" y2="383.33" stroke="#cbd5e1" stroke-width="1"/>
+<text x="58" y="387.33" text-anchor="end" font-family="Arial" font-size="12" fill="#475569">6%</text>
+<line x1="70" y1="305.00" x2="960" y2="305.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="58" y="309.00" text-anchor="end" font-family="Arial" font-size="12" fill="#475569">9%</text>
+<line x1="70" y1="226.67" x2="960" y2="226.67" stroke="#cbd5e1" stroke-width="1"/>
+<text x="58" y="230.67" text-anchor="end" font-family="Arial" font-size="12" fill="#475569">12%</text>
+<line x1="70" y1="148.33" x2="960" y2="148.33" stroke="#cbd5e1" stroke-width="1"/>
+<text x="58" y="152.33" text-anchor="end" font-family="Arial" font-size="12" fill="#475569">15%</text>
+<line x1="70" y1="70.00" x2="960" y2="70.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="58" y="74.00" text-anchor="end" font-family="Arial" font-size="12" fill="#475569">18%</text>
+<rect x="84.56" y="467.23" width="25.89" height="72.77" fill="#3b82f6"/>
+<rect x="110.45" y="467.47" width="25.89" height="72.53" fill="#f59e0b"/>
+<text x="110.45" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">2</text>
+<rect x="165.47" y="394.61" width="25.89" height="145.39" fill="#3b82f6"/>
+<rect x="191.36" y="394.94" width="25.89" height="145.06" fill="#f59e0b"/>
+<text x="191.36" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">3</text>
+<rect x="246.38" y="322.62" width="25.89" height="217.38" fill="#3b82f6"/>
+<rect x="272.27" y="322.41" width="25.89" height="217.59" fill="#f59e0b"/>
+<text x="272.27" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">4</text>
+<rect x="327.29" y="249.25" width="25.89" height="290.75" fill="#3b82f6"/>
+<rect x="353.18" y="249.88" width="25.89" height="290.12" fill="#f59e0b"/>
+<text x="353.18" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">5</text>
+<rect x="408.20" y="177.85" width="25.89" height="362.15" fill="#3b82f6"/>
+<rect x="434.09" y="177.35" width="25.89" height="362.65" fill="#f59e0b"/>
+<text x="434.09" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">6</text>
+<rect x="489.11" y="103.94" width="25.89" height="436.06" fill="#3b82f6"/>
+<rect x="515.00" y="104.81" width="25.89" height="435.19" fill="#f59e0b"/>
+<text x="515.00" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">7</text>
+<rect x="570.02" y="177.31" width="25.89" height="362.69" fill="#3b82f6"/>
+<rect x="595.91" y="177.35" width="25.89" height="362.65" fill="#f59e0b"/>
+<text x="595.91" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">8</text>
+<rect x="650.93" y="251.09" width="25.89" height="288.91" fill="#3b82f6"/>
+<rect x="676.82" y="249.88" width="25.89" height="290.12" fill="#f59e0b"/>
+<text x="676.82" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">9</text>
+<rect x="731.84" y="322.97" width="25.89" height="217.03" fill="#3b82f6"/>
+<rect x="757.73" y="322.41" width="25.89" height="217.59" fill="#f59e0b"/>
+<text x="757.73" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">10</text>
+<rect x="812.75" y="394.64" width="25.89" height="145.36" fill="#3b82f6"/>
+<rect x="838.64" y="394.94" width="25.89" height="145.06" fill="#f59e0b"/>
+<text x="838.64" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">11</text>
+<rect x="893.65" y="467.37" width="25.89" height="72.63" fill="#3b82f6"/>
+<rect x="919.55" y="467.47" width="25.89" height="72.53" fill="#f59e0b"/>
+<text x="919.55" y="564.00" text-anchor="middle" font-family="Arial" font-size="13" fill="#0f172a">12</text>
+<rect x="760" y="22" width="16" height="16" fill="#3b82f6"/>
+<text x="784" y="36" font-family="Arial" font-size="14" fill="#0f172a">Monte Carlo</text>
+<rect x="880" y="22" width="16" height="16" fill="#f59e0b"/>
+<text x="904" y="36" font-family="Arial" font-size="14" fill="#0f172a">Analytical</text>
+</svg>
